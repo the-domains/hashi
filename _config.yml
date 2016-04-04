@@ -1,6 +1,6 @@
 name: 'Monster '
 favicon: null
-layout_spectrum: 0.90491
+layout_spectrum: 0.07402
 typography_spectrum: 0.02161
 title: Hashi
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.08309332304634154
+  brandStrength: 0.125
   lightness: 0.875
   saturation: 0.7203111734706908
   rhythmicContrast: 0.1586262327618897
