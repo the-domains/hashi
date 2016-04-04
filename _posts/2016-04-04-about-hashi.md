@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What is Hashi?
-datePublished: '2016-04-04T03:53:34.119Z'
-dateModified: '2016-04-04T03:53:31.435Z'
+datePublished: '2016-04-04T03:56:31.144Z'
+dateModified: '2016-04-04T03:56:05.857Z'
 title: About Hashi
 author: []
 sourcePath: _posts/2016-04-04-about-hashi.md
@@ -29,7 +29,7 @@ Hashi is an organisation which provides exciting and interesting opportunities t
 
 **Book on Airbnb**
 
-Like our service? Book a stay on AirBnb [**here**][0]. 
+Like our service? **Book a stay on AirBnb [here][0]**. 
 
 **Who runs Hashi?**
 
