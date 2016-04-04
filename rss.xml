@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hashi]]></title>
         <description><![CDATA[Hashi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hashi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 02:48:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 02:57:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hashi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Hashi]]></title>
+            <description><![CDATA[<article><h1>About Hashi</h1><p>What is Hashi?</p></article>]]></description>
+            <link>https://thegrid.ai/hashi/about-hashi/index.html</link>
+            <guid isPermaLink="false">b8458145-e854-4a8e-bef8-05f54b3bf278</guid>
+            <pubDate>Mon, 04 Apr 2016 02:56:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Experiences]]></title>
-            <description><![CDATA[<article><h1>Experiences</h1><p>Along with the incredible home stay, we have some awesome activities planned that we hope you like it. Here are the list of activities planned by us.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8917a962-2e87-4227-b1b0-4799992a888b.jpg"></article>]]></description>
-            <link>undefinedexperiences/index.html</link>
+            <description><![CDATA[<article><h1>Experiences</h1><p>Along with the incredible home stay, we have some awesome activities planned that we hope you like it. Here are the list of activities planned by us.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af9f71cc41127a23abe6e3c505b10b0f1de31b4c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hashi/experiences/index.html</link>
             <guid isPermaLink="false">9eae9bb6-2585-45ef-ad84-8dc7166ffef8</guid>
             <pubDate>Mon, 04 Apr 2016 02:47:51 GMT</pubDate>
         </item>
