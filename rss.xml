@@ -4,8 +4,15 @@
         <description><![CDATA[Hashi. Bridging Cultures]]></description>
         <link>https://thegrid.ai/hashi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 03:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 03:32:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hashi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Hashi]]></title>
+            <description><![CDATA[<article><h1>About Hashi</h1><p>What is Hashi?</p></article>]]></description>
+            <link>https://thegrid.ai/hashi/about-hashi/index.html</link>
+            <guid isPermaLink="false">9ac7aef8-73b3-4330-bd76-5422aab95b3a</guid>
+            <pubDate>Mon, 04 Apr 2016 03:31:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hashi]]></title>
             <description><![CDATA[<article><h1>Hashi</h1><p>Bridging Cultures</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a5777a7-eba4-4d46-8b4f-27f0d5e0122c.jpg"></article>]]></description>
