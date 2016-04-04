@@ -1,4 +1,4 @@
-name: 'Monster '
+name: Hashi
 favicon: null
 layout_spectrum: 0.96333
 typography_spectrum: 0.02161
@@ -24,6 +24,6 @@ color:
     - '#e91e21'
   brandStrength: 0.125
   lightness: 0.625
-  saturation: 0.7203111734706908
-  rhythmicContrast: 0.1586262327618897
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
