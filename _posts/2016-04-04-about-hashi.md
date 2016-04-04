@@ -7,8 +7,8 @@ starred: false
 keywords: []
 description: |
 
-datePublished: '2016-04-04T03:42:50.512Z'
-dateModified: '2016-04-04T03:42:36.385Z'
+datePublished: '2016-04-04T03:43:13.348Z'
+dateModified: '2016-04-04T03:42:57.672Z'
 title: About Hashi
 author: []
 sourcePath: _posts/2016-04-04-about-hashi.md
