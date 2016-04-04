@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hashi]]></title>
-        <description><![CDATA[Hashi]]></description>
+        <title><![CDATA[Hashi. Bridging Cultures]]></title>
+        <description><![CDATA[Hashi. Bridging Cultures]]></description>
         <link>https://thegrid.ai/hashi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 03:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 03:18:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hashi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hashi]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[About Hashi]]></title>
-            <description><![CDATA[<article><h1>About Hashi</h1><p>What is Hashi?</p></article>]]></description>
+            <description><![CDATA[<article><h1>About Hashi</h1><p>What is Hashi?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/005393ed-23e6-40ca-908b-be3cfcfa15dd.jpg"></article>]]></description>
             <link>https://thegrid.ai/hashi/about-hashi/index.html</link>
             <guid isPermaLink="false">b8458145-e854-4a8e-bef8-05f54b3bf278</guid>
-            <pubDate>Mon, 04 Apr 2016 02:56:48 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 03:18:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Experiences]]></title>
