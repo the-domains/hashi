@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What is Hashi? Hashi is an organisation which provides exciting and interesting opportunities to experience Indian culture especially for visitors to India who are seeking to have raw cultural experiences of this culture rich country. It also provides home stay with various activities planned for cultural interaction which are customizable according to the interests of the visitors.
-datePublished: '2016-04-04T04:19:08.562Z'
-dateModified: '2016-04-04T04:18:51.800Z'
+datePublished: '2016-04-04T04:22:03.998Z'
+dateModified: '2016-04-04T04:21:55.139Z'
 title: About Hashi
 author: []
 authors: []
@@ -22,7 +22,8 @@ url: about-hashi/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e90d5eb-e2e2-48d1-9df0-637d4835876a.jpg)
+**What is Hashi?** Hashi is an organisation which provides exciting and interesting opportunities to experience Indian culture especially for visitors to India who are seeking to have raw cultural experiences of this culture rich country. It also provides home stay with various activities planned for cultural interaction which are customizable according to the interests of the visitors.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11c82ec2-c72f-4b98-a1d1-e97c1e77c785.jpg)
 
 **Book on Airbnb**
 
@@ -31,5 +32,6 @@ Like our service? Book a stay on AirBnb [here][0].
 **Who runs Hashi?**
 
 An artistic person and a cultural enthusiast who loves to interact with people. A Japanese ~ English Translator by profession. Would love to involve in these activities for you during my free time!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72df80a0-a6c2-4b01-ad60-da30179a5f7d.jpg)
 
 [0]: https://airbnb.com
