@@ -2,6 +2,7 @@ name: Hashi
 favicon: null
 layout_spectrum: 0.90491
 typography_spectrum: 0.02161
+title: Hashi
 cta:
   domain: null
   bucket: null
