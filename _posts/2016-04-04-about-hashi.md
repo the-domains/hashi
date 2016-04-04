@@ -5,29 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: What is Hashi?
-datePublished: '2016-04-04T03:31:56.940Z'
-dateModified: '2016-04-04T03:31:55.317Z'
+description: |
+
+datePublished: '2016-04-04T03:42:50.512Z'
+dateModified: '2016-04-04T03:42:36.385Z'
 title: About Hashi
 author: []
+sourcePath: _posts/2016-04-04-about-hashi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-about-hashi.md
-published: true
 url: about-hashi/index.html
 _type: Article
 
 ---
-**What is Hashi?**
-
-Hashi is an organisation which provides exciting and interesting opportunities to experience Indian culture especially for visitors to India who are seeking to have raw cultural experiences of this culture rich country. It also provides home stay with various activities planned for cultural interaction which are customizable according to the interests of the visitors.
-
-**Book on Airbnb**
-
 Like our service? [Book on AirBNB now][0]!
 
 **Who runs Hashi?**
