@@ -1,0 +1,28 @@
+name: Hashi
+favicon: null
+layout_spectrum: 0.9713465771637857
+typography_spectrum: 0.42972057103179395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.08309332304634154
+  lightness: 0.12466551060788333
+  saturation: 0.7203111734706908
+  rhythmicContrast: 0.1586262327618897
+purpose: []
