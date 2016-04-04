@@ -1,6 +1,6 @@
 name: Hashi
 favicon: null
-layout_spectrum: 0.96333
+layout_spectrum: 0.89129
 typography_spectrum: 0.02161
 title: Hashi. Bridging Cultures
 cta:
@@ -23,7 +23,7 @@ color:
     - '#63a3e0'
     - '#e91e21'
   brandStrength: 0.125
-  lightness: 0.625
+  lightness: 0.1875
   saturation: 0.875
   rhythmicContrast: 0.75
 purpose: []
