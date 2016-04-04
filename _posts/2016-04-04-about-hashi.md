@@ -7,8 +7,8 @@ starred: false
 keywords: []
 description: |
 
-datePublished: '2016-04-04T03:43:13.348Z'
-dateModified: '2016-04-04T03:42:57.672Z'
+datePublished: '2016-04-04T03:43:57.459Z'
+dateModified: '2016-04-04T03:43:26.630Z'
 title: About Hashi
 author: []
 sourcePath: _posts/2016-04-04-about-hashi.md
@@ -23,6 +23,8 @@ url: about-hashi/index.html
 _type: Article
 
 ---
+Hashi is an organisation which provides exciting and interesting opportunities to experience Indian culture especially for visitors to India who are seeking to have raw cultural experiences of this culture rich country. It also provides home stay with various activities planned for cultural interaction which are customizable according to the interests of the visitors.
+
 Like our service? [Book on AirBNB now][0]!
 
 **Who runs Hashi?**
